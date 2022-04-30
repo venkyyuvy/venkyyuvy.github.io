@@ -1,8 +1,8 @@
 
 # Site settings
 baseurl = "https://venkyyuvy.github.io/"
+title = "Venkatachalam"
 languageCode = "en-us"
-title = "Venkatachalam Natchiappan"
 theme = "forty"
 
 # Enter your tracking code to enable Google Analytics
@@ -173,11 +173,11 @@ disqusShortname = ""
     # by copying the corresponding map with frontmatter code.
     [[params.contact.email]]
     title = "Email"
-    email = "example@domain.com"
+    email = "venky.yuvy@gmail.com"
 
     [[params.contact.phone]]
     title = "Phone"
-    phone = "(000) 000-0000 x1234"
+    phone = "(091) 82202 16473"
 
     [[params.contact.address]]
     title = "Address"
@@ -188,7 +188,7 @@ disqusShortname = ""
   # Footer section
   [params.footer]
     enable = true
-    copyright = "Company Name"
+    copyright = "@venkyyuvy"
 
     # Uses font awesome icons
     [[params.footer.social]]
