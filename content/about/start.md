@@ -1,3 +1,9 @@
+---
+title: "mePage"
+date: 2022-05-04T11:21:55+05:30
+draft: true
+---
+
 Hi!!!
 
 Thanks for visiting my website. My name is Venkatachalam Natchiappan. I am currently working as a senior data scientist in Ericsson.  All time fan of Yuvraj Singh (Ex-Indian cricket team player).
