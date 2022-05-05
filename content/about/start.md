@@ -1,8 +1,10 @@
----
-title: "mePage"
+------
+title: "MePage"
 date: 2022-05-04T11:21:55+05:30
 draft: true
 ---
+
+{{< figure src="../img/profile_pic.jpeg " height=500 width=75 alt="Hello Friend" position="center" style="border-radius: 8px;" caption="Maslow's Hierarchy of Needs" captionPosition="right" captionStyle="color: red;" >}}
 
 Hi!!!
 
@@ -12,7 +14,7 @@ Prior to the current role, I was working as a Data scientist in Machine learning
 Building large scale customer interaction data classification, NLP annotation tool along with active learning, survey analysis tool, probability of defaulting model for credit team.
 On the personal front, I am married and I have a three year old son, based out of Chennai, India.
 
-I have completed my bachelors from College of Engineering, Guindy in Manufacturing engineering, then pursued my masters (by research) in operations management for Indian Institute of Technology, Madras. My thesis is Minimizing the conflicting edges in graph coloring problem. This work concentrates on proposing novel heuristic for doing graph coloring when number of allowed colors is less the chromatic number of the graph.
+I have completed my bachelors from College of Engineering, Guindy in Manufacturing engineering, then pursued my masters (by research) in operations management for Indian Institute of Technology, Madras. My thesis is Minimizing the conflicting edges in graph coloring problem. This work concentrates on proposing novel heuristic for doing graph coloring when number of allowed colors is less the chromatic number of the graph. Compares it effectives based on close to optimal solution using memetic algorithm.
 
 I enjoy contributing something back to the open source community. I had done more than 15 successful pull request to Sklearn project. Also, I answer for machine learning and python specific questions in Stack Overflow. You can checkout my SO profile [here](https://stackoverflow.com/users/6347629/venkatachalam?tab=profile). I have close to 15K reputation in the Stack Overflow.
 
