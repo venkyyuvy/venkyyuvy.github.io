@@ -21,4 +21,4 @@ My recent interests are understanding large scale data engineering tools, buildi
 Last updated: May 2022
 ## License
 
-Copyright © 2020 [Venkatachalam Natchiappan](https://github.com/venkyyuvy)
+Copyright © 2022 [Venkatachalam Natchiappan](https://github.com/venkyyuvy)
