@@ -11,19 +11,19 @@ theme = "hugo-theme-console"
 
 
   [[params.navlinks]]
-  name = "about"
+  name = "about/"
   url = "about/"
 
   [[params.navlinks]]
-  name = "blog"
+  name = "blog/"
   url = "blog/"
 
   [[params.navlinks]]
-  name = "fitness"
+  name = "fitness/"
   url = "fitness/"
 
   [[params.navlinks]]
-  name = "stories"
-  url = "stories"
+  name = "stories/"
+  url = "stories/"
 
 
