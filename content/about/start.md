@@ -1,10 +1,7 @@
----
-title: "MePage"
-date: 2022-05-04T11:21:55+05:30
-draft: true
----
-
-{{< figure src="../img/profile_pic.jpeg " height=500 width=75 alt="Hello Friend" position="center" style="border-radius: 8px;" caption="Maslow's Hierarchy of Needs" captionPosition="right" captionStyle="color: red;" >}}
++++
+date = "2022-05-06T12:05:33+05:30"
+title = "About"
++++
 
 Hi!!!
 
@@ -22,3 +19,6 @@ I like coffee, trekking (NOT a fan of beaches!), enjoy playing Handball / Cricke
 My recent interests are understanding large scale data engineering tools, building AI softwares.
 
 Last updated: May 2022
+## License
+
+Copyright © 2020 [Venkatachalam Natchiappan](https://github.com/venkyyuvy)
