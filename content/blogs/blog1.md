@@ -1,7 +1,11 @@
 ---
-title: "Ipsum"
-date: 2017-10-31T21:28:43-05:00
+title: "The Hope"
+date: 2022-05-23T10:28:43+05:30
 draft: false
 ---
 
-Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.
+With the reduction in the internal combustion engines usage and BETTER engine, which produces lesser CO_2 the global waming might come down.
+
+In the coming years, population in the earth is supposed to go down, due to poeple not willing to have more children (typically every family now has only one kid these days).
+
+Temperate rise upto 2022, is shown beautifully in [this](https://www.linkedin.com/posts/pascalbornet_innovation-datascience-visualization-activity-6934359797244837888-TJxi?utm_source=linkedin_share&utm_medium=member_desktop_web) visual graphs. Hopefully the cone will taper in the coming years.
