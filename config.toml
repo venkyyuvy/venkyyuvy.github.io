@@ -19,11 +19,11 @@ theme = "hugo-theme-console"
   url = "blogs/"
 
   [[params.navlinks]]
-  name = "fitness"
-  url = "fitness/"
+  name = "lifestyle"
+  url = "lifestyle/"
 
   [[params.navlinks]]
-  name = "stories"
-  url = "stories/"
+  name = "photos"
+  url = "photos/"
 
 
