@@ -1,1 +1,3 @@
 
+[submodule "themes/hugo-theme-console/"]
+	url = git@github.com:venkyyuvy/venkyyuvy.github.io
