@@ -1,6 +1,5 @@
 ---
 title: "Cons of too much delayed Gratificaiton"
-description: "Lorem Etiam Nullam"
 image: pic09.jpg
 date: 2023-06-11T22:26:09-05:00
 draft: false
