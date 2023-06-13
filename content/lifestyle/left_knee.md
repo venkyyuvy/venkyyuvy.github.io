@@ -1,6 +1,12 @@
+---
+title: "left_knee"
+image: pic09.jpg
+date: 2023-06-11T22:26:09-05:00
+draft: false
+---
 Oct 2012:
 
-I had my first injury to left knee during the zonal semi-finals match with REC (Rajalakshmi college of engineering), happened in our college (College of Engineering, Guindy). One opponent's knee hit my left knee on the medial side. Immediatley I felt a shock on my nerve and after that I couldn't continue my play on that match. On the same day, during the warmup for the final match - my left knee collapsed when I try to make a feint to Tamilvanan (who is standing as a defender for me) and took off for a shoot. I couldn't play the final match, but we won the match confortably. There was good amount of swelling in the knee and I applied ICE as suggested by our PT (Balaganesan sir).
+I had my first injury to left knee during the zonal semi-finals match with REC (Rajalakshmi college of engineering), happened in our college (College of Engineering, Guindy). One opponent's knee hit my left knee on the medial side. Immediatley I felt a shock on my nerve and after that I couldn't continue my play on that match. On the same day, during the warmup for the final match - my left knee collapsed when I try to make a feint to Tamilvanan (who is standing as a defender for me) and took off for a shoot. I couldn't play the final match, but we won the match confortably. There was good amount of swelling in the knee and I applied ice as suggested by our PT (Balaganesan sir).
 
 Nov 2012:
 
