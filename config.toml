@@ -1,17 +1,13 @@
 
 # Site settings
 baseurl = "https://venkyyuvy.github.io/"
-title = "Venkatachalam"
+title = "Venkatachalam Natchiappan"
 languageCode = "en-us"
 theme = "hugo-theme-console"
 
 [params]
   # Cutting off the page title to two chars for mobile (console-demo -> co)
   titleCutting = false
-
-  [[params.navlinks]]
-  name = "about"
-  url = "about/"
 
   [[params.navlinks]]
   name = "projects"
@@ -25,5 +21,7 @@ theme = "hugo-theme-console"
   name = "lifestyle"
   url = "lifestyle/"
 
-
+  [[params.navlinks]]
+  name = "photos"
+  url = "photos/"
 
