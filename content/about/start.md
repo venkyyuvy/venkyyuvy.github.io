@@ -1,12 +1,9 @@
 +++
-date = "2023-06-06T12:05:33+05:30"
+date = "2023-06-20T12:05:33+05:30"
 title = "About"
 +++
 
-Hi!!!
-
-
-Thanks for visiting my website. My name is Venkatachalam Natchiappan. I am currently working as a senior data scientist in Ericsson. 
+My name is Venkatachalam Natchiappan. I am currently working as a senior data scientist in Ericsson. 
 My strengths are Machine learning, operations research and software engineering.
 Prior to the current role, I was working as a Data scientist in Machine learning, centre of excellence team of Ford's Global Data Insights and analytics team (GDIA). I have working on developing vehicle routing solutions using genetic algorithm, constraint programming in the OR space.
 Building large scale customer interaction classification, NLP annotation tool along with active learning, survey analysis tool and probability of payment and defaulting model for Ford credit.

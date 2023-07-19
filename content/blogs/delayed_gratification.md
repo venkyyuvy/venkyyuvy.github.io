@@ -1,10 +1,12 @@
 ---
-title: "Cons of too much delayed Gratificaiton"
-image: pic09.jpg
+title: "Cons of too much delayed gratificaiton"
+image: img/20210612_073752.jpg
 date: 2023-06-11T22:26:09-05:00
 draft: false
 ---
-# Why too much of delayed gratification is an issue?
+## Why too much of delayed gratification is an issue?
+
+{{< figure src="../img/20210612_073752.jpg" height=400 width=2000 alt="image" position="center" style="border-radius: 8px;" caption="" captionPosition="center" captionStyle="color: red;" >}}
 
 Someone can become good at delayed gratification but too much of delay / deffering it is a big problem. He / she may not be able to enjoy at the moment of gratification even when gratification happens after the desire amount of delay. The only thing that gives them happiness is delaying the gratification longer and longer - for anything at any point of anytime. 
 

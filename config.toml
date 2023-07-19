@@ -15,6 +15,10 @@ theme = "hugo-theme-console"
   url = "about/"
 
   [[params.navlinks]]
+  name = "projects"
+  url = "projects/"
+
+  [[params.navlinks]]
   name = "blogs"
   url = "blogs/"
 
@@ -22,8 +26,5 @@ theme = "hugo-theme-console"
   name = "lifestyle"
   url = "lifestyle/"
 
-  [[params.navlinks]]
-  name = "projects"
-  url = "projects/"
 
 

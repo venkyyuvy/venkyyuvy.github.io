@@ -11,6 +11,5 @@ One person in an online meeting says that he is going to get married. The reacti
 When the person come back to office after the wedding, questions asked by the team members were,
 
     - Am I right in saying that you were married now? 
-    - when asked priest the important question, hope everyone said YES!!
-
+    - when priest asked the important question, hope everyone said YES!!
 
