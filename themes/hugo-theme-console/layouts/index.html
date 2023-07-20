@@ -26,7 +26,7 @@ My recent interests are understanding large scale data engineering tools, buildi
 
 <br/>
 <br/>
-Last updated: Jun 2023
+Last updated: Jul 2023
 <br/>
 
 <h1>Latest posts</h1>
@@ -49,7 +49,7 @@ Last updated: Jun 2023
 
 <div class="image-grid">
 {{ with .Site.GetPage "/photos" }}
-    {{ range first 3 (sort .Data.Pages "Date" "desc")}}
+    {{ range first 3 (sort .Data.Pages "Date" "asc")}}
         <a href="{{ .Permalink }}" title="{{ .Title }}">
         {{ $image := .Page.Resources.GetMatch .Params.image }}
         {{ with $image }}
